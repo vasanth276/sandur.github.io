@@ -2,3 +2,23 @@ section{
     background-color: aqua;
     line-height: 70;
 }
+#jumbotron{
+    text-align: center;
+    background-color: rgb(183, 0, 108);
+    padding: 8%;
+    color: white;
+    background-image: url('images/background.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    letter-spacing: 0.6vw;
+    word-spacing: 4rvw;
+}
+#contactus h1{
+    text-align: center;
+}
+#footer{
+    line-height: 7;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 0px;
+}
